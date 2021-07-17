@@ -1,10 +1,5 @@
 [
   {
-    "outageRecId": "2021-07-17-0067",
-    "points": {},
-    "outNow": 1
-  },
-  {
     "outageRecId": "2021-07-17-0068",
     "points": {
       "type": "Polygon",
@@ -62,10 +57,5 @@
       ]
     },
     "outNow": 33
-  },
-  {
-    "outageRecId": "2021-07-17-0069",
-    "points": {},
-    "outNow": 1
   }
 ]
