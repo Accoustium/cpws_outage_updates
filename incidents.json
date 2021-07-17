@@ -1,6 +1,16 @@
 [
   {
-    "outageRecId": "2021-07-17-0062",
+    "outageRecId": "2021-07-17-0063",
+    "points": {},
+    "outNow": 1
+  },
+  {
+    "outageRecId": "2021-07-17-0064",
+    "points": {},
+    "outNow": 1
+  },
+  {
+    "outageRecId": "2021-07-17-0065",
     "points": {},
     "outNow": 1
   }
