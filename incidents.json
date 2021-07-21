@@ -69,5 +69,10 @@
       ]
     },
     "outNow": 50
+  },
+  {
+    "outageRecId": "2021-07-21-0100",
+    "points": {},
+    "outNow": 1
   }
 ]
