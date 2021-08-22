@@ -140,5 +140,10 @@
       ]
     },
     "outNow": 64
+  },
+  {
+    "outageRecId": "2021-08-21-0074",
+    "points": {},
+    "outNow": 1
   }
 ]
