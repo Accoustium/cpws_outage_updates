@@ -1,10 +1,5 @@
 [
   {
-    "outageRecId": "2021-09-01-0004",
-    "points": {},
-    "outNow": 1
-  },
-  {
     "outageRecId": "2021-09-01-0005",
     "points": {
       "type": "Polygon",
