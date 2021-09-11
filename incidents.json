@@ -180,5 +180,10 @@
       ]
     },
     "outNow": 20
+  },
+  {
+    "outageRecId": "2021-09-11-0298",
+    "points": {},
+    "outNow": 1
   }
 ]
