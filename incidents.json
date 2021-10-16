@@ -120,11 +120,6 @@
     "outNow": 1
   },
   {
-    "outageRecId": "2021-10-15-0036",
-    "points": {},
-    "outNow": 1
-  },
-  {
     "outageRecId": "2021-10-15-0037",
     "points": {},
     "outNow": 1
@@ -133,11 +128,6 @@
     "outageRecId": "2021-10-15-0038",
     "points": {},
     "outNow": 2
-  },
-  {
-    "outageRecId": "2021-10-15-0039",
-    "points": {},
-    "outNow": 1
   },
   {
     "outageRecId": "2021-10-15-0040",
@@ -240,6 +230,21 @@
   },
   {
     "outageRecId": "2021-10-15-0049",
+    "points": {},
+    "outNow": 1
+  },
+  {
+    "outageRecId": "2021-10-15-0050",
+    "points": {},
+    "outNow": 1
+  },
+  {
+    "outageRecId": "2021-10-15-0051",
+    "points": {},
+    "outNow": 1
+  },
+  {
+    "outageRecId": "2021-10-15-0052",
     "points": {},
     "outNow": 1
   }
