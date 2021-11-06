@@ -1,6 +1,11 @@
 [
   {
-    "outageRecId": "2021-11-05-0026",
+    "outageRecId": "2021-11-06-0027",
+    "points": {},
+    "outNow": 1
+  },
+  {
+    "outageRecId": "2021-11-06-0028",
     "points": {},
     "outNow": 1
   }
