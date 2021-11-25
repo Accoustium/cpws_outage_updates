@@ -40,5 +40,20 @@
       ]
     },
     "outNow": 3
+  },
+  {
+    "outageRecId": "2021-11-25-0081",
+    "points": {},
+    "outNow": 1
+  },
+  {
+    "outageRecId": "2021-11-25-0082",
+    "points": {},
+    "outNow": 1
+  },
+  {
+    "outageRecId": "2021-11-25-0083",
+    "points": {},
+    "outNow": 1
   }
 ]
