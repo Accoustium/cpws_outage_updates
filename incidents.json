@@ -342,5 +342,10 @@
     "outageRecId": "2022-01-01-0025",
     "points": {},
     "outNow": 1
+  },
+  {
+    "outageRecId": "2022-01-01-0026",
+    "points": {},
+    "outNow": 1
   }
 ]
