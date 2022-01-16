@@ -133,7 +133,7 @@
   {
     "outageRecId": "2022-01-16-0106",
     "points": {},
-    "outNow": 1
+    "outNow": 3
   },
   {
     "outageRecId": "2022-01-16-0107",
@@ -184,6 +184,11 @@
   },
   {
     "outageRecId": "2022-01-16-0112",
+    "points": {},
+    "outNow": 1
+  },
+  {
+    "outageRecId": "2022-01-16-0113",
     "points": {},
     "outNow": 1
   }
